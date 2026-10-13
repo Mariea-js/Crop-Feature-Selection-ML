@@ -1,0 +1,12 @@
+# Source dataset (distribution rights not established)
+data/
+soil_measures.csv
+soil_measures.xlsx
+
+# Python and notebook files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
